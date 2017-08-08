@@ -1,2 +1,2 @@
-# c_plus_plus-game-challenges
+# cpp-gamechallenges
 Here i'm gonna upload my Game Challenges in c++
