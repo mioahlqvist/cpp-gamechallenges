@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\programmering\c++\gaming challenges\(challenge 1) fighting simulator 2017\1d fighting simulator 2017\1d fighting simulator 2017\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\programmering\c++\gaming challenges\(challenge 1) fighting simulator 2017\1d fighting simulator 2017\1d fighting simulator 2017\main.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\programmering\c++\gaming challenges\(challenge 1) fighting simulator 2017\1d fighting simulator 2017\1d fighting simulator 2017\main.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\programmering\c++\gaming challenges\(challenge 1) fighting simulator 2017\1d fighting simulator 2017\1d fighting simulator 2017\main.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1D Fighting Simulator 2017.vcxproj -> E:\Programmering\C++\Gaming Challenges\(Challenge 1) Fighting Simulator 2017\1D Fighting Simulator 2017\Debug\1D Fighting Simulator 2017.exe
+  1D Fighting Simulator 2017.vcxproj -> E:\Programmering\C++\Gaming Challenges\(Challenge 1) Fighting Simulator 2017\1D Fighting Simulator 2017\Debug\1D Fighting Simulator 2017.pdb (Partial PDB)
