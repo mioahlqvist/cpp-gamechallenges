@@ -1,4 +1,4 @@
-# cpp-gamechallenges
+# c++-gamechallenges
 Here i'm gonna upload my Game Challenges in c++
 
 Now working with
